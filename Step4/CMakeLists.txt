@@ -3,7 +3,7 @@
 cmake_minimum_required(VERSION 3.10)
 
 # set the project name and version
-project(Tutorial VERSION 1.0)
+project(Cmake_Tutorial VERSION 1.0)
 
 # specify the C++ standard
 add_library(tutorial_compiler_flags INTERFACE)
